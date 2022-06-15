@@ -11,4 +11,4 @@ For a longer tutorial you can visit [VDA's youtube channel.](https://www.youtube
 If you want to get your own Tableau Student License: https://www.tableau.com/academic/students 
 
 
-http://vda.univie.ac.at/Teaching/Vis/22s/schedule.html 
+More info on VDA's course in Visualization & Data Analysis: http://vda.univie.ac.at/Teaching/Vis/22s/schedule.html 
